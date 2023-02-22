@@ -1,0 +1,4 @@
+baseURL = 'https://jjanghee28.github.io/'
+languageCode = 'euc-kr'
+title = 'Dangling Blog'
+theme = 'ananke'
